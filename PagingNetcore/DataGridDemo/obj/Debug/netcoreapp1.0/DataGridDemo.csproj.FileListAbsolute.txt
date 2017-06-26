@@ -1,0 +1,9 @@
+C:\Users\toan\Desktop\DataGridDemo\DataGridDemo\bin\Debug\netcoreapp1.0\DataGridDemo.deps.json
+C:\Users\toan\Desktop\DataGridDemo\DataGridDemo\bin\Debug\netcoreapp1.0\DataGridDemo.runtimeconfig.json
+C:\Users\toan\Desktop\DataGridDemo\DataGridDemo\bin\Debug\netcoreapp1.0\DataGridDemo.runtimeconfig.dev.json
+C:\Users\toan\Desktop\DataGridDemo\DataGridDemo\bin\Debug\netcoreapp1.0\DataGridDemo.dll
+C:\Users\toan\Desktop\DataGridDemo\DataGridDemo\bin\Debug\netcoreapp1.0\DataGridDemo.pdb
+C:\Users\toan\Desktop\DataGridDemo\DataGridDemo\obj\Debug\netcoreapp1.0\DataGridDemo.csprojResolveAssemblyReference.cache
+C:\Users\toan\Desktop\DataGridDemo\DataGridDemo\obj\Debug\netcoreapp1.0\DataGridDemo.AssemblyInfo.cs
+C:\Users\toan\Desktop\DataGridDemo\DataGridDemo\obj\Debug\netcoreapp1.0\DataGridDemo.dll
+C:\Users\toan\Desktop\DataGridDemo\DataGridDemo\obj\Debug\netcoreapp1.0\DataGridDemo.pdb
