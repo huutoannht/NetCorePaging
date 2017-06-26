@@ -9794,10 +9794,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toan\\Desktop\\DataGridDemo\\DataGridDemo\\DataGridDemo.csproj",
+      "projectUniqueName": "E:\\Project\\Demo\\MVC\\DataGridDemo\\PagingNetcore\\DataGridDemo\\DataGridDemo.csproj",
       "projectName": "DataGridDemo",
-      "projectPath": "C:\\Users\\toan\\Desktop\\DataGridDemo\\DataGridDemo\\DataGridDemo.csproj",
-      "outputPath": "C:\\Users\\toan\\Desktop\\DataGridDemo\\DataGridDemo\\obj\\",
+      "projectPath": "E:\\Project\\Demo\\MVC\\DataGridDemo\\PagingNetcore\\DataGridDemo\\DataGridDemo.csproj",
+      "outputPath": "E:\\Project\\Demo\\MVC\\DataGridDemo\\PagingNetcore\\DataGridDemo\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
